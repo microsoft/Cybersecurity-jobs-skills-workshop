@@ -1,31 +1,33 @@
+# La Cybersécurité, mon futur métier !
+__"La cybersécurité, mon futur métier"__ est un kit pédagogique qui a été élaboré par des professionnels de la cybersécurité, afin de permettre aux jeunes (15 à 21 ans) de mieux comprendre les enjeux de la cybersécurité et de découvrir les métiers qui y sont associés.
 
-# Contributing
+Les séquences sont indépendantes les unes des autres et peuvent être réalisées pour une intervention allant d’__une heure à une demi-journée__. 
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Le kit peut être utilisé par des enseignants, pour des élèves __en fin de collège comme au lycée__ ou bien par des professionnels de la cybersécurité à l’occasion d'échanges sur des forums et de salons.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+# Comment utiliser ce kit pédagogique ?
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Simple à utiliser, le kit pédagogique est constitué :
+- [D'un guide Participant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf)
 
-# Legal Notices
+<p align="center">
+  <img src="doc/images/FR/Overview_Participant.png">
+</p>
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+- [D'un guide Intervenant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf)
+<p align="center">
+  <img src="doc/images/FR/Overview_Intervenant.png">
+</p>
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
+# Pourquoi ce kit ?
 
-Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+La cybersécurité est un enjeu majeur. Aujourd'hui, les entreprises et les particuliers sont de plus en plus exposés aux cyberattaques. __La pénurie de talents dans le domaine de la cybersécurité est également un véritable problème.__ 
+
+En France, il y a actuellement __15 000 postes à pourvoir__ dans le domaine de la cybersécurité. Globalement, plusieurs millions de postes dans le monde restent sans candidats. La filière de la cybersécurité est encore méconnue et n'attire pas assez de talents. 
+
+Pour inciter le plus grand nombre à entreprendre une carrière dans la cybersécurité, __il faut susciter des vocations.__ “Les étudiants ne peuvent pas être ce qu'ils ne connaissent pas”. Les jeunes doivent pouvoir découvrir que la cybersécurité est à la portée de tous et qu'il y a une place pour eux dans ce secteur. Il est important qu’ils prennent conscience qu'il s'agit d'un __domaine d'avenir__, porteur de __sens__ et tourné vers __la protection numérique de tous__.
+
+# Pour contribuer
+
+Le kit “La cybersécurité, mon futur métier” est mis à disposition sous Creative Commons Attribution 4.0 International – (CC BY 4.0). Vous pouvez le modifier tant que les conditions de la [licence](LICENSE) sont respectées.
