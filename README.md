@@ -8,13 +8,13 @@ Le kit peut être utilisé par des enseignants, pour des élèves __en fin de co
 # Comment utiliser ce kit pédagogique ?
 
 Simple à utiliser, le kit pédagogique est constitué :
-- [D'un guide Participant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf)
+- [D'un guide Participant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf) - Disponible le 31 mai 2022
 
 <p align="center">
   <img src="doc/images/FR/Overview_Participant.png">
 </p>
 
-- [D'un guide Intervenant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf)
+- [D'un guide Intervenant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf) - Disponible le 31 mai 2022
 <p align="center">
   <img src="doc/images/FR/Overview_Intervenant.png">
 </p>
@@ -30,4 +30,4 @@ Pour inciter le plus grand nombre à entreprendre une carrière dans la cybersé
 
 # Pour contribuer
 
-Le kit “La cybersécurité, mon futur métier” est mis à disposition sous Creative Commons Attribution 4.0 International – (CC BY 4.0). Vous pouvez le modifier tant que les conditions de la [licence](LICENSE) sont respectées.
+Le kit “La cybersécurité, mon futur métier” est mis à disposition sous licence Creative Commons Attribution 4.0 International – (CC BY 4.0). Vous pouvez le modifier tant que les conditions de la [licence](LICENSE) sont respectées.
