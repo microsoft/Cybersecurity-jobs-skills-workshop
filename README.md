@@ -30,4 +30,4 @@ Pour inciter le plus grand nombre à entreprendre une carrière dans la cybersé
 
 # Pour contribuer
 
-Le kit “La cybersécurité, mon futur métier” est mis à disposition sous licence Creative Commons Attribution 4.0 International – (CC BY 4.0). Vous pouvez le modifier tant que les conditions de la [licence](LICENSE) sont respectées.
+Le kit __“La cybersécurité, mon futur métier”__ est mis à disposition sous licence __CC BY 4.0__ (Creative Commons Attribution 4.0 International) . Vous pouvez l'utiliser et le modifier tant que les conditions de la [licence](LICENSE) sont respectées.
