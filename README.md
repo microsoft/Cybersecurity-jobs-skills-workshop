@@ -19,7 +19,7 @@ Simple à utiliser, le kit pédagogique est constitué :
   <img src="doc/images/FR/Overview_Intervenant.png">
 </p>
 
-Les fichiers sont également disponibles au format PPTX :
+Les fichiers sont également disponibles au format PowerPoint (PPTX) :
 - [Guide Participant (PPTX)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCybersecurity-jobs-skills-workshop%2Fmain%2Fdoc%2Fkit%2FFR%2FPPTX%2FGUIDE_CYBER_PARTICIPANT_v1.pptx)
 - [Guide Intervenant (PPTX)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCybersecurity-jobs-skills-workshop%2Fmain%2Fdoc%2Fkit%2FFR%2FPPTX%2FGUIDE_CYBER_INTERVENANT_v1.pptx)
 
