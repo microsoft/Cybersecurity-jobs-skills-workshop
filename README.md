@@ -8,16 +8,20 @@ Le kit peut être utilisé par des enseignants, pour des élèves __en fin de co
 # Comment utiliser ce kit pédagogique ?
 
 Simple à utiliser, le kit pédagogique est constitué :
-- [D'un guide Participant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf) - Disponible le 31 mai 2022
+- [D'un guide Participant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf) 
 
 <p align="center">
   <img src="doc/images/FR/Overview_Participant.png">
 </p>
 
-- [D'un guide Intervenant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf) - Disponible le 31 mai 2022
+- [D'un guide Intervenant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf) 
 <p align="center">
   <img src="doc/images/FR/Overview_Intervenant.png">
 </p>
+
+Les fichiers sont également disponibles au format PPTX :
+- [Guide Participant (PPTX)](doc/kit/FR/PPTX/GUIDE_CYBER_PARTICIPANT_v1.pptx)
+- [Guide Intervenant (PPTX)](doc/kit/FR/PPTX/GUIDE_CYBER_INTERVENANT_v1.pptx)
 
 
 # Pourquoi ce kit ?
