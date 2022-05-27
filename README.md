@@ -8,20 +8,20 @@ Le kit peut être utilisé par des enseignants, pour des élèves __en fin de co
 # Comment utiliser ce kit pédagogique ?
 
 Simple à utiliser, le kit pédagogique est constitué :
-- [D'un guide Participant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf) 
+- [D'un guide Participant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v1.pdf) 
 
 <p align="center">
   <img src="doc/images/FR/Overview_Participant.png">
 </p>
 
-- [D'un guide Intervenant (PDF)](doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf) 
+- [D'un guide Intervenant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v1.pdf) 
 <p align="center">
   <img src="doc/images/FR/Overview_Intervenant.png">
 </p>
 
 Les fichiers sont également disponibles au format PPTX :
-- [Guide Participant (PPTX)](doc/kit/FR/PPTX/GUIDE_CYBER_PARTICIPANT_v1.pptx)
-- [Guide Intervenant (PPTX)](doc/kit/FR/PPTX/GUIDE_CYBER_INTERVENANT_v1.pptx)
+- [Guide Participant (PPTX)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCybersecurity-jobs-skills-workshop%2Fmain%2Fdoc%2Fkit%2FFR%2FPPTX%2FGUIDE_CYBER_PARTICIPANT_v1.pptx)
+- [Guide Intervenant (PPTX)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FCybersecurity-jobs-skills-workshop%2Fmain%2Fdoc%2Fkit%2FFR%2FPPTX%2FGUIDE_CYBER_INTERVENANT_v1.pptx)
 
 
 # Pourquoi ce kit ?
