@@ -13,13 +13,13 @@ The kit can be used by teachers, for students, or by cybersecurity professionals
 # Comment utiliser ce kit pédagogique ?
 
 Simple à utiliser, le kit pédagogique est constitué :
-- [D'un guide Participant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v2.pdf) 
+- [D'un guide Participant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/KIT_CYBER_PARTICIPANT_v2.pdf) 
 
 <p align="center">
   <img src="doc/images/FR/Overview_Participant.png">
 </p>
 
-- [D'un guide Intervenant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v2.pdf) 
+- [D'un guide Intervenant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/KIT_CYBER_INTERVENANT_v2.pdf) 
 <p align="center">
   <img src="doc/images/FR/Overview_Intervenant.png">
 </p>
