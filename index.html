@@ -1,0 +1,276 @@
+<!DOCTYPE html>  
+<html lang="fr">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>La Cybersécurité, mon futur métier</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            margin: 20px;  
+            line-height: 1.6;  
+            color: #333;  
+            background-color: #f9f9f9;  
+        }  
+        header, footer {  
+            text-align: center;  
+            padding: 1em 0;  
+            margin: 20px 0;  
+            background-color: #ffffff;  
+            color: white;  
+            border-radius: 8px;
+            width: 75%; 
+            margin: 0 auto; 
+        }  
+
+        main {
+            width: 70%;
+            margin: 0 auto;
+        }
+
+
+        h1, h2 {  
+            color: #007BFF;  
+        }  
+        h1 {  
+            font-size: 2em;  
+            text-align: center;  
+        }  
+        h2 {  
+            font-size: 1.8em;  
+            position: relative;  
+        }  
+       
+        p {  
+            font-size: 1em;  
+            color: #555;
+            text-align: justify;   
+        }  
+        hr {  
+            border: 0;  
+            height: 1px;  
+            background: #ddd;  
+            margin: 40px 0;  
+        }  
+        .center {  
+            display: block;  
+            margin-left: auto;  
+            margin-right: auto;  
+            width: 50%;  
+            border-radius: 10px;  
+        }  
+        .section {  
+            margin-bottom: 10px;  
+            padding: 10px;  
+            background-color: white;  
+            border-radius: 8px;  
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+        }  
+        .faq-question {  
+            cursor: pointer;  
+            margin: 10px 0;  
+            font-weight: bold;  
+            transition: color 0.3s;  
+        }  
+        .faq-question:hover {  
+            color: #007BFF;  
+        }  
+        .faq-answer {  
+            margin: 10px 0;  
+            padding-left: 20px;  
+        }  
+        .downloads {  
+            width: 100%;  
+            border-collapse: collapse;  
+            margin: 20px 0;  
+        }  
+        .downloads td, .downloads th {  
+            border: 1px solid #ddd;  
+            padding: 12px;  
+            text-align: center;
+            vertical-align: middle;
+        }  
+        .downloads tr:nth-child(even) {  
+            background-color: #f2f2f2;  
+        }  
+        .downloads tr:hover {  
+            background-color: #ddd;  
+            cursor: pointer;  
+        }  
+        .downloads th {  
+            background-color: #007BFF;  
+            color: white;  
+            text-align: left;  
+        }  
+        .download-icon {  
+            width: 20px;  
+            height: auto;  
+            vertical-align: middle;  
+        }  
+        .text.pdf, .text.pptx {  
+            font-size: 10px;  
+            width: 38px;  
+            color: #fff;  
+            border-radius: 4px;  
+            text-align: center;  
+            padding: 5px;  
+            line-height: 21px;  
+            display: inline-block;  
+            margin-right: 10px; 
+        }  
+        .text.pdf {  
+            background-color: #d01a1f;  
+        }  
+        .text.pptx {  
+            background-color: #FF8F6B;  
+        }  
+      
+    </style>  
+    <script>  
+        function toggleAnswer(id) {  
+            var answer = document.getElementById(id);  
+            if (answer.style.display === "none" || answer.style.display === "") {  
+                answer.style.display = "block";  
+            } else {  
+                answer.style.display = "none";  
+            }  
+        }  
+  
+        function downloadFile(url) {  
+            var a = document.createElement('a');  
+            a.href = url;  
+            a.download = url.split('/').pop();  
+            document.body.appendChild(a);  
+            a.click();  
+            document.body.removeChild(a);  
+        }  
+    </script>  
+</head>  
+<body>  
+  
+    <main>  
+      
+        <section class="section">  
+            <h2>La cybersécurité, mon futur métier !</h2>  
+            <p>Destiné aux jeunes de 15 à 21 ans, le kit permet de mieux comprendre les enjeux de la cybersécurité et de faire découvrir les métiers associés. Les séquences du kit sont indépendantes et peuvent être réalisées sur un atelier d'une heure ou bien prolongées jusqu'à une demi-journée.</p>  
+        </section>  
+
+        <img src="./images/FR/Visuel.png" width="50%" class="center" alt="Visuel">  
+          
+      
+
+        <section class="section">  
+            <h2>Qu'est-ce que le kit comprend ?</h2>  
+            <p>Le kit pédagogique comprend deux guides : un pour les participants et un pour les intervenants. Il est conçu pour être simple à utiliser, avec des guides téléchargeables en plusieurs formats (PDF et PowerPoint).</p>  
+            
+        
+            <div style="text-align: center; margin: 20px 0;">
+                <div style="display: inline-block; margin: 10px;">
+                    <h3>Livret Intervenant</h3>
+                    <img src="./images/FR/Livret_Intervenant.gif" alt="Aperçu Livret Intervenant" style="width: 300px; height: auto; border-radius: 10px;">
+                </div>
+                <div style="display: inline-block; margin: 10px;">
+                    <h3>Livret Participant</h3>
+                    <img src="./images/FR/Livret_Participant.gif" alt="Aperçu Livret Participant" style="width: 300px; height: auto; border-radius: 10px;">
+                </div>
+            </div>
+        
+            <h3>Pour les participants :</h3>  
+            <ul>  
+                <li>Activités ludiques et didactiques : Plusieurs activités, quiz et témoignages.</li>  
+                <li>Séquences thématiques :  
+                    <ul>  
+                        <li>Les métiers de la cybersécurité : Découverte des diverses professions et les parcours d’étude.</li>  
+                        <li>Méfiez-vous des apparences : Vigilance face aux arnaques en ligne et aux deepfakes.</li>  
+                        <li>Protégez vos comptes en ligne : Gestion des mots de passe et double authentification.</li>  
+                        <li>Ressources : Fiches récapitulatives, conseils pour une bonne hygiène numérique, témoignages audio et vidéo.</li>  
+                    </ul>  
+                </li>  
+            </ul>  
+            <h3>Pour les intervenants :</h3>  
+            <ul>  
+                <li>Guide d'animation : Comment structurer et animer une session de sensibilisation.</li>  
+                <li>Estimation de temps : Durées recommandées pour chaque séquence.</li>  
+                <li>Ressources additionnelles : Liens pour approfondir les thématiques abordées, lexique des termes à connaître.</li>  
+            </ul>  
+        </section>
+        
+          
+           
+        <section class="section">  
+            <h2>Télécharger les supports (licence CC BY 4.0)</h2>  
+            <table class="downloads" style="width: 60%;">  
+                <tr onclick="downloadFile('https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/GUIDE_CYBER_PARTICIPANT_v2.pdf')">  
+                    <td><div class="text pdf">PDF</div></td>  
+                    <td>CyberKit – Guide Participant - V2 (Juin 2024)</td>  
+                    <td><img src="./images/FR/download_icon.png" alt="Download Icon" class="download-icon""></td>  
+                </tr>  
+                <tr onclick="downloadFile('https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/GUIDE_CYBER_INTERVENANT_v2.pdf')">  
+                    <td><div class="text pdf">PDF</div></td>  
+                    <td>CyberKit – Guide Intervenant - V2 (Juin 2024)</td>  
+                    <td><img src="./images/FR/download_icon.png" alt="Download Icon" class="download-icon"></td>  
+                </tr>  
+                <tr onclick="downloadFile('https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PPTX/GUIDE_CYBER_PARTICIPANT_v2.pptx')">  
+                    <td><div class="text pptx">PPTX</div></td>  
+                    <td>CyberKit – Guide Participant - V2 (Juin 2024)</td>  
+                    <td><img src="./images/FR/download_icon.png" alt="Download Icon" class="download-icon"></td>  
+                </tr>  
+                <tr onclick="downloadFile('https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PPTX/GUIDE_CYBER_INTERVENANT_v2.pptx')">  
+                    <td><div class="text pptx">PPTX</div></td>  
+                    <td>CyberKit – Guide Intervenant - V2 (Juin 2024)</td>  
+                    <td><img src="./images/FR/download_icon.png" alt="Download Icon" class="download-icon"></td>  
+                </tr>  
+            </table>  
+        </section>  
+          
+          
+        <section class="section">  
+
+         
+
+            <h2>Témoignages</h2>  
+
+            <div style="margin: 20px 0; overflow: hidden;">
+                <img src="./images/FR/Interventions.gif" alt="Aperçu des interventions" style="float: left; margin-right: 20px; border-radius: 10px;">
+        
+                <div style="overflow: hidden;">
+                    <p><strong>Jamal - Enseignant au lycée</strong><br>"Grâce à ce kit, mes élèves ont pu découvrir les différents aspects de la cybersécurité. C’est un outil précieux pour ouvrir leurs horizons professionnels."</p>  
+                    <p><strong>Héléne - Consultante cybersécurité</strong><br>"Lors des forums et salons, ce kit nous permet de captiver l’attention des jeunes et de leur montrer les opportunités incroyables qu'offre la cybersécurité. C’est un excellent moyen de susciter des vocations."</p>  
+                    <p><strong>Yanis - Etudiant en classe de seconde</strong><br>"Les activités m'ont montré que la cybersécurité n'est pas seulement pour les experts en informatique. Maintenant, je suis motivé pour en savoir plus."</p>  
+                </div>
+            </div>
+
+            
+        </section>  
+          
+          
+        <section class="section">  
+            <h2>Questions fréquentes</h2>  
+            <div class="faq-question"><strong>Pourquoi ce kit ?</strong></div>  
+            <div class="faq-answer">En France, 60 000 postes sont à pourvoir en cybersécurité, et des millions de postes restent vacants à l’échelle mondiale. Ce kit pédagogique a pour objectif de parler des enjeux liés à la cybersécurité, de faire découvrir les métiers associés et de susciter des vocations parmi les jeunes et ceux qui souhaitent se reconvertir.</div>  
+        
+            <div class="faq-question"><strong>Comment contribuer au contenu du kit ?</strong></div>  
+            <div class="faq-answer">A travers GitHub : <a href="https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/tree/main">https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/tree/main</a>. Le kit est disponible sous licence Creative Commons Attribution 4.0 International (CC BY 4.0). Cela signifie que vous pouvez l’utiliser et le modifier tant que les conditions de la licence sont respectées.</div>  
+    
+            <div class="faq-question"><strong>Puis-je personnaliser le contenu du kit ?</strong></div>  
+            <div class="faq-answer">Oui, grâce à la licence Creative Commons, vous pouvez adapter le kit à vos besoins spécifiques tout en respectant les conditions de la licence.</div>  
+        
+        </section>  
+          
+        <hr>  
+          
+        <section class="section">  
+            <h2>English Version</h2>  
+            <p>The pedagogical kit is also available in English:</p>  
+            <ul>  
+                <li><a href="https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PDF/GUIDE_CYBER_PARTICIPANT_EN_v1.pdf">Participant Guide - EN (PDF)</a></li>  
+                <li><a href="https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_PARTICIPANT_EN_v1.pptx">Participant Guide - EN (PPTX)</a></li>  
+            </ul>  
+        </section>  
+          
+    </main>  
+    <footer>  
+        <p>Juin 2024 - La Cybersécurité, mon futur métier</p>  
+    </footer>  
+</body>  
+</html>  
