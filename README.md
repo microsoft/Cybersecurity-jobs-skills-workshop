@@ -32,10 +32,9 @@ Les fichiers sont également disponibles au format PowerPoint (PPTX) :
 # English version
 
 The pedagogical kit available in english:
-- [Participant Guide - EN (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PDF/GUIDE_CYBER_PARTICIPANT_EN_v1.pdf)
+- [Participant Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PDF/GUIDE_CYBER_PARTICIPANT_EN_v2a.pptx)
 
-The kit is also available in PowerPoint (PPTX) format:
-- [Participant Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_PARTICIPANT_EN_v1.pptx)
+- [Facilitator Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_FACILITATOR_EN_v2.pptx)
 
 # Pourquoi ce kit ?
 
