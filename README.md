@@ -10,31 +10,31 @@ Le kit peut être utilisé par des enseignants, pour des élèves __en fin de co
 The sequences are independent of each other and can be carried out for an intervention lasting from one hour to half a day.
 The kit can be used by teachers, for students, or by cybersecurity professionals during exchanges on forums and trade fairs.
 
-# Comment utiliser ce kit pédagogique ? (Juin 2024)
+# Comment utiliser ce kit pédagogique ? (Septembre 2025)
 
 Simple à utiliser, le kit pédagogique est constitué :
-- [D'un guide Participant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/KIT_CYBER_PARTICIPANT_v2b.pdf) 
+- [D'un guide Participant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/KIT_CYBER_PARTICIPANT_v3.pdf) 
 
 <p align="center">
   <img src="doc/images/FR/Overview_Participant.png">
 </p>
 
-- [D'un guide Intervenant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/KIT_CYBER_INTERVENANT_v2b.pdf) 
+- [D'un guide Intervenant (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PDF/KIT_CYBER_INTERVENANT_v3.pdf) 
 <p align="center">
   <img src="doc/images/FR/Overview_Intervenant.png">
 </p>
 
 Les fichiers sont également disponibles au format PowerPoint (PPTX) :
-- [Guide Participant (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PPTX/GUIDE_CYBER_PARTICIPANT_v2b.pptx)
+- [Guide Participant (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PPTX/GUIDE_CYBER_PARTICIPANT_v3.pptx)
 
-- [Guide Intervenant (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PPTX/GUIDE_CYBER_INTERVENANT_v2b.pptx)
+- [Guide Intervenant (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/FR/PPTX/GUIDE_CYBER_INTERVENANT_v3a.pptx)
 
 # English version
 
 The pedagogical kit available in english:
-- [Participant Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_PARTICIPANT_EN_v2b.pptx)
+- [Participant Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_PARTICIPANT_EN_v3.pptx)
 
-- [Facilitator Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_FACILITATOR_EN_v2b.pptx)
+- [Facilitator Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_FACILITATOR_EN_v3.pptx)
 
 # Pourquoi ce kit ?
 
