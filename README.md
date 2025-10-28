@@ -32,10 +32,12 @@ Les fichiers sont également disponibles au format PowerPoint (PPTX) :
 # English version
 
 The pedagogical kit available in english:
-- [Participant Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_PARTICIPANT_EN_v3.pptx)
-
+- [Participant Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_PARTICIPANT_EN_v3a.pptx)
 - [Facilitator Guide - EN (PPTX)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PPTX/GUIDE_CYBER_FACILITATOR_EN_v3.pptx)
 
+
+- [Participant Guide - EN (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PDF/GUIDE_CYBER_PARTICIPANT_EN_v3a.pdf)
+- [Facilitator Guide - EN (PDF)](https://github.com/microsoft/Cybersecurity-jobs-skills-workshop/raw/main/doc/kit/EN/PDF/GUIDE_CYBER_FACILITATOR_EN_v3.pdf)
 # Pourquoi ce kit ?
 
 La cybersécurité est un enjeu majeur. Aujourd'hui, les entreprises et les particuliers sont de plus en plus exposés aux cyberattaques. __La pénurie de talents dans le domaine de la cybersécurité est également un véritable problème.__ 
